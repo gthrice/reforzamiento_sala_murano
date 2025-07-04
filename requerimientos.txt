@@ -46,7 +46,7 @@ Una sección con 3 cards de Bootstrap, cada una representando un destino:
 Cada card debe tener:
 
 - Imagen ilustrativa (pueden ser placeholders)
-- Nombre del destino
+- Nombre del destinogit branch
 - Botón "Ver Más"
 - Al hacer clic en "Ver Más":
   Con jQuery, mostrar un mensaje debajo de la card: 
@@ -61,3 +61,10 @@ El diseño debe adaptarse correctamente en computadoras y celulares usando Boots
 5. Validaciones:
 
 El botón "Ver Más" no debe recargar la página.
+
+felipe jQuery
+cristian html1 /  Header
+Dario html2 / card Bootstrap
+alvaro js1 
+daniel css
+
